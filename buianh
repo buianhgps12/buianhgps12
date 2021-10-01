@@ -1,0 +1,16 @@
+const CONFIG = {
+    introTitle: 'babe a',
+    introDesc: 'trai dat von la thuong',
+    btnIntro: 'hihi',
+    title: 'phai chang em da yeu ngay tu cai nhin dau tien',
+    desc: 'phai chang em da say ngay tu luc thay nu cuoi ay',
+    btnYes: 'van cu la thich anh <333',
+    btnNo: 'khong, anh trai a :3',
+    question: 'tren the gioi co hon 7 ty nguoi ma sao e ko chon a',
+    btnReply: 'gui cho a',
+    reply: 'yeu thi yeu ma khong yeu thi yeu',
+    mess: 'anh biet ma. yeu em nhieu',
+    messdesc: 'toi 7h a qua don di choi nhe',
+    btnAccept: 'okiiii lun <3',
+    messLink: 'https://www.facebook.com/buianhj1',
+    }
